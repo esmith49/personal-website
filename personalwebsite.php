@@ -5,7 +5,7 @@
 		<title>WebSmithDesigns</title>
 	</head>
 	<body>
-		<h1></h1>
+		<h1>Headline goes here</h1>
 		<p></p>
 		<h2></h2>
 		<p></p>
